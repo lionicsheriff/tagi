@@ -10,7 +10,7 @@ dist
 build
 eggs
 parts
-bin
+#bin # currently the cli app is stored there. Probably should move it
 var
 sdist
 develop-eggs
