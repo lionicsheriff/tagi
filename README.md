@@ -93,3 +93,7 @@ There is only one way to fix this. You need to give Monkey a different name. You
 All the references to Bullseye have now become the more appropriate name Cyclops. Book finished!
 
 You give yourself a week to bask in the glory of finishing one fantastic, prize winning, perfect novel. Three to go. Rolling up your sleeves, you get to work on the next even more perfect novel. Future generations will study your quadrilogy as a piece of important history that sparked the social revolution that made their current utopia possible. You couldn't have done this without an excellent categorising system.
+
+# License
+
+MIT
